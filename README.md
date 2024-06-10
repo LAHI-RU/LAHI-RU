@@ -7,7 +7,7 @@
 <tr border="none">
 <td width="50%" align="left">
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React**, **UI/UX Design**
 
 - 🧑‍🎓 I’m an Undergraduate at **EUSL**
 
