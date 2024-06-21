@@ -16,7 +16,7 @@
 
 - 🧑‍🎓 I’m an Undergraduate at **EUSL**
 
-- 👉 E-mail me :- **lahiiru.dananjaya@gmail.com**
+- 👉 E-mail :- **lahiiru.dananjaya@gmail.com**
 
 </td>
 <td width="50%" align="center">
