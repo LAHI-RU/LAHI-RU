@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Lahiru Bandara</h1>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=LAHI-RU&label=Profile%20views&color=0e75b6&style=flat" alt="LAHIRU" /> </p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=LAHI-RU&label=Profile%20views&color=0e75b6&style=flat" alt="LAHIRU" /> 
+  <a href="https://github.com/LAHI-RU?tab=followers"><img src="https://img.shields.io/github/followers/LAHI-RU?    label=Followers&style=social" alt="GitHub Badge"></a>
+</div> 
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
