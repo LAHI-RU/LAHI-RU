@@ -24,7 +24,7 @@
 </td>
 <td width="50%" align="center">
   
-  <img align="center" alt="portfolio image" width="450" src="01.png">
+  <img align="center" alt="portfolio image" width="270" src="01.png">
   <br>
   Visit <a href="">my online portfolio</a> to discover more about my journey!  
 </td>
