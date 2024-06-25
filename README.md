@@ -26,7 +26,7 @@
   
   <img align="center" alt="portfolio image" width="600" src="01.png">
   <br>
-  Visit <a href="https://lahiru-dhananjaya.netlify.app/" target="blank">my online portfolio</a> to discover more about my journey!  
+  Visit <a href="https://lahiru-dhananjaya.netlify.app/" target="_blank">my online portfolio</a> to discover more about my journey!  
 </td>
 </tr>
 </table>
