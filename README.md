@@ -4,7 +4,7 @@
   <a href="https://github.com/LAHI-RU?tab=followers"><img src="https://img.shields.io/github/followers/LAHI-RU?    label=Followers&style=social" alt="GitHub Badge"></a>
 </div> 
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center"></h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/lahirubandaara" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="Lahiru Bandara" height="50" width="50" /></a>
 <a href="https://fb.com/lahiru.bandara.1428921?mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Lahiru Bandara" height="50" width="50" /></a>
