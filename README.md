@@ -24,7 +24,7 @@
 </td>
 <td width="50%" align="center">
   
-  <img align="center" alt="portfolio image" width="600" src="01.png">
+  <img align="center" alt="portfolio image" width="300" src="01.png">
   <br>
   Visit <a href="https://lahiru-dhananjaya.netlify.app/" target="_blank"> My Online Portfolio </a> to discover more about my journey!  
 </td>
