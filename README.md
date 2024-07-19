@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning **Python**,**React**, **UI/UX Design**
 
-- 🧑‍🎓 I’m an Undergraduate at EUSL
+- 🧑‍🎓 I’m an Undergraduate at *EUSL*
 
 - 👉 E-mail :- **lahiiru.dananjaya@gmail.com**
 
