@@ -15,7 +15,7 @@
 <tr border="none">
 <td width="50%" align="left">
 
-- 🌱 I’m currently learning **Python**,**React**, **UI/UX Design**
+- 🌱 I’m currently learning **Python**,**React**, **Node.js**
 
 - 🧑‍🎓 I’m an Undergraduate at *EUSL*
 
