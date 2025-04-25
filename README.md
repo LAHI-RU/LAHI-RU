@@ -29,7 +29,7 @@
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I'm currently working on **advancing my full-stack development skills**
-- 🌱 I'm learning **Python**, **React**, and **Node.js**
+- 🌱 I'm learning **Python**, **React**, and **Machine Learning**
 - 🎓 Undergraduate student at **Eastern University of Sri Lanka (EUSL)**
 - 🚀 Visit my [Portfolio Website](https://lahiru-dhananjaya.netlify.app/) to learn more about my work!
 - 💬 Ask me about **web development and programming**
