@@ -35,8 +35,7 @@
 - 💬 Ask me about **web development and programming**
 - ⚡ Fun fact: **When I'm not coding, I'm exploring new technologies**
 
---
-
+<br><br>
 ## <div align="center">🛠️ Tech Stack</div>
 
 <div align="center">
