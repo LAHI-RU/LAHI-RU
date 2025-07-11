@@ -77,7 +77,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LAHI-RU&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LAHI-RU&theme=radical&hide_border=false&layout=compact" alt="Top Languages" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=&theme=radical&hide_border=false&layout=compact" alt="Top Languages" height="170" />
 </div>
 
 <div align="center">
