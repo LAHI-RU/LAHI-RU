@@ -49,9 +49,13 @@
 
 ## 📈 GitHub Overview  
 <p align="center">
+  <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=LAHI-RU&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LAHI-RU&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+
+  <!-- Most Used Languages (auto-updates daily) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LAHI-RU&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" height="160"/>
 </p>
+
 
 ---
 
