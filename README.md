@@ -16,16 +16,16 @@
 ## 🌐 Connect With Me  
 <p align="center">
   <a href="https://linkedin.com/in/lahirubandaara" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/linkedin.svg" alt="LinkedIn" width="40" height="40" style="margin: 0 15px; fill: #0A66C2;"/>
   </a>
   <a href="https://fb.com/lahiru.bandara.1428921" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" alt="Facebook" width="40" height="40" style="color:#1877F2"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/facebook.svg" alt="Facebook" width="40" height="40" style="margin: 0 15px; fill: #1877F2;"/>
   </a>
   <a href="https://instagram.com/l_a_h_i_r_u._" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" alt="Instagram" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/instagram.svg" alt="Instagram" width="40" height="40" style="margin: 0 15px; fill: #E4405F;"/>
   </a>
   <a href="mailto:lahiiru.dananjaya@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 15px; fill: #D14836;"/>
   </a>
 </p>
 
