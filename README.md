@@ -40,7 +40,7 @@
 `React` `HTML5` `CSS3`  
 
 **Backend & Database**  
-`Node.js` `MS SQL`  
+`Node.js` `MY SQL` `MongoDB`
 
 **Tools & Platforms**  
 `Git` `GitHub` `VSCode` `Canva`
