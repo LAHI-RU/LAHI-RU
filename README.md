@@ -1,3 +1,4 @@
+# Hi 👋, I'm Lahiru Bandara
 <h1 align="center">Hi 👋, I'm Lahiru Bandara</h1>
 <h3 align="center">Computer Science Undergraduate | Full-Stack Developer | Tech Enthusiast</h3>
 
@@ -5,10 +6,10 @@
 
 ## 👨‍💻 About Me  
 - 🎓 Undergraduate at **Eastern University of Sri Lanka (EUSL)**  
-- 🔭 Currently improving my **Full-Stack Development** skills  
-- 🌱 Exploring **Python**, **React**, and **Machine Learning**  
+- 🔭 Currently working as **Intern-Software Engineer** @**Rangiri Holdings (pvt) Ltd.**  
+- 🌱 Exploring **Python** and **Machine Learning**  
 - 🚀 Portfolio: [lahiru-dhananjaya.netlify.app](https://lahiru-dhananjaya.netlify.app/)  
-- 💡 Passionate about turning **ideas into scalable solutions**  
+- 💡 Passionate about turning ideas into scalable solutions  
 - ⚡ Fun fact: I love exploring new tech when I’m not coding  
 
 ---
@@ -34,16 +35,16 @@
 
 ## 🛠️ Tech Stack  
 **Languages**  
-`Python` `JavaScript` `Java` `C` `C++` `PHP`  
+`Python` `JavaScript` `Java` `C#` `PHP` `TypeScript` `HTML` `CSS` `C++`  
 
 **Frontend**  
-`React` `HTML5` `CSS3`  
+`React` `HTML5` `CSS3` `Angular` `Blade (Laravel)` `Tailwind CSS`  
 
 **Backend & Database**  
-`Node.js` `MY SQL` `MongoDB`
+`Node.js` `Express.js` `Laravel (PHP)` `Flask (Python)` `MySQL` `MongoDB` 
 
 **Tools & Platforms**  
-`Git` `GitHub` `VSCode` `Canva`
+`Git` `GitHub` `VSCode` `Jupyter Notebook` `TensorFlow` `Keras` `Scikit-Learn` `OpenAI` `Netlify`  
 
 ---
 
