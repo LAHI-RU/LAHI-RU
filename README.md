@@ -7,7 +7,7 @@
 ## 👨‍💻 About Me  
 - 🎓 Undergraduate at **Eastern University of Sri Lanka (EUSL)**  
 - 🔭 Currently working as **Intern-Software Engineer** @**Rangiri Holdings (pvt) Ltd.**  
-- 🌱 Exploring **Python** and **Machine Learning**  
+- 🌱 Exploring **Python**, **React** and **Machine Learning**  
 - 🚀 Portfolio: [lahiru-dhananjaya.netlify.app](https://lahiru-dhananjaya.netlify.app/)  
 - 💡 Passionate about turning ideas into scalable solutions  
 - ⚡ Fun fact: I love exploring new tech when I’m not coding  
@@ -38,7 +38,7 @@
 `Python` `JavaScript` `Java` `C#` `PHP` `TypeScript` `HTML` `CSS` `C++`  
 
 **Frontend**  
-`React` `HTML5` `CSS3` `Angular` `Blade (Laravel)` `Tailwind CSS`  
+`React` `HTML5` `CSS3` `Blade (Laravel)` `Tailwind CSS`  
 
 **Backend & Database**  
 `Node.js` `Express.js` `Laravel (PHP)` `Flask (Python)` `MySQL` `MongoDB` 
