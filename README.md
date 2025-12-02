@@ -1,6 +1,6 @@
 # Hi 👋, I'm Lahiru Bandara
 <h1 align="center">Hi 👋, I'm Lahiru Bandara</h1>
-<h3 align="center">Computer Science Undergraduate | Full-Stack Developer | Tech Enthusiast</h3>
+<h3 align="center">Software Engineer | Full-Stack Developer | Tech Enthusiast</h3>
 
 ---
 
