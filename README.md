@@ -1,66 +1,89 @@
-# Hi, I'm Lahiru Bandara
+# Hey, I'm Lahiru 👋
 
-**Software Engineer | Full-Stack Developer**
+**Software Engineer | Full-Stack Developer | AI Systems Builder**
 
-I build clean, scalable, and user-focused web applications.
-
----
-
-## About
-
-- 🎓 BSc in Computer Science – Eastern University 
-- 💼 Software Engineer Intern at Rangiri Holdings
-- 🌍 Based in Sri Lanka
-- ⚙️ Focused on backend architecture, modern frontend, and performance
+I design and build **scalable, production-grade applications** with a focus on backend systems, performance, and AI integration.
 
 ---
 
-## Tech Stack
+## 🚀 About Me
 
-**Languages**
-- JavaScript, Python, PHP
-
-**Frontend**
-- React, Tailwind CSS, Blade
-
-**Backend**
-- Laravel, Node.js, REST APIs
-
-**Database**
-- MySQL, MongoDB
-
-**Tools**
-- Git, Docker, Linux, Figma
+- 💼 Associate Software Engineer (Intern → promoted)
+- 🎓 BSc Computer Science – Eastern University
+- 🌍 Sri Lanka
+- ⚡ Backend-focused | Performance-driven | AI-oriented  
 
 ---
 
-<!--
-## Featured Projects
+## ⚙️ Tech Stack
 
-| Project | Description | Tech |
-|--------|-------------|-------|
-| **Project Name** | Short one-line description | Laravel, React |
-| **Project Name** | Short one-line description | Node, MongoDB |
-| **Project Name** | Short one-line description | Python, ML |
--->
+<table>
+<tr>
+<td valign="top" width="50%">
 
+### 💻 Languages  
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
+![PHP](https://img.shields.io/badge/-PHP-black?style=flat&logo=php)
+![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=openjdk)
+
+### 🛠 Backend  
+![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat&logo=laravel)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js)
+![Django](https://img.shields.io/badge/-Django-black?style=flat&logo=django)
+![REST API](https://img.shields.io/badge/-REST-black?style=flat&logo=fastapi)
+
+### 🗄 Databases  
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb)
+![SQLite](https://img.shields.io/badge/-SQLite-black?style=flat&logo=sqlite)
+
+</td>
+
+<td valign="top" width="50%">
+
+### 🎨 Frontend  
+![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat&logo=tailwind-css)
+![Blade](https://img.shields.io/badge/-Blade-black?style=flat&logo=laravel)
+
+### 🤖 AI / ML  
+![PyTorch](https://img.shields.io/badge/-PyTorch-black?style=flat&logo=pytorch)
+![OpenAI](https://img.shields.io/badge/-OpenAI-black?style=flat&logo=openai)
+![Prompt Engineering](https://img.shields.io/badge/-Prompt%20Engineering-black)
+![Agentic Systems](https://img.shields.io/badge/-Agentic%20AI-black)
+
+### ☁️ DevOps & Tools  
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker)
+![AWS](https://img.shields.io/badge/-AWS-black?style=flat&logo=amazonaws)
+![Linux](https://img.shields.io/badge/-Linux-black?style=flat&logo=linux)
+![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
+![Figma](https://img.shields.io/badge/-Figma-black?style=flat&logo=figma)
+
+</td>
+</tr>
+</table>
+
+## 🎯 Current Focus
+
+- ⚙️ System design & scalability (thinking beyond CRUD) 
+- 🤖 AI-powered tools & automation  
+- ☁️ Cloud & DevOps (moving toward production-grade infra)
 
 ---
 
-## Current Focus
+## 📫 Connect
 
-- Building production-ready full-stack systems  
-- Improving system design & scalability  
-- Learning cloud & DevOps fundamentals
-
----
-
-## Contact
-
-- Portfolio: https://lahiru-dhananjaya.netlify.app/ 
-- LinkedIn: https://www.linkedin.com/in/lahirubandaara/ 
-- Email: lahiiru.dananjaya@gmail.com
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=google-chrome)](https://lahiru-dhananjaya.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat&logo=linkedin)](https://www.linkedin.com/in/lahirubandaara/)
+[![Email](https://img.shields.io/badge/-Email-black?style=flat&logo=gmail)](mailto:lahiiru.dananjaya@gmail.com)
 
 ---
 
-<sub>Last updated: 2026</sub>
+## ⚡ Philosophy
+
+> Clean code is expected.  
+> Scalable systems are what matter.
+
+---
