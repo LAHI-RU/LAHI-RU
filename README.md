@@ -8,7 +8,7 @@ I design and build **scalable, production-grade applications** with a focus on b
 
 ## 🚀 About Me
 
-- 💼 Associate Software Engineer (Intern → promoted)
+- 💼 Associate Software Engineer
 - 🎓 BSc Computer Science – Eastern University
 - 🌍 Sri Lanka
 - ⚡ Backend-focused | Performance-driven | AI-oriented  
