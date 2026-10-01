@@ -1,65 +1,61 @@
-# Lahiru Bandara
-
 <div align="center">
 
-**Software Engineer | Full-Stack Development**
+# Hi, I'm Lahiru Bandara 👋
 
-Colombo, Sri Lanka • [lahiru.dananjaya@gmail.com](mailto:lahiru.dananjaya@gmail.com) • +94 77 237 6081
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1200&color=2563EB&center=true&vCenter=true&width=700&lines=Software+Engineer;Full-Stack+Developer;Building+Practical+AI-Enabled+Systems" alt="Typing intro" />
 
-[LinkedIn](https://linkedin.com/in/lahirubandaar) • [Portfolio](https://lahiru-dhananjaya.netlify.app/) • [GitHub](https://github.com/LAHI-RU)
+<p>
+  <a href="mailto:lahiru.dananjaya@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-0A66C2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/lahirubandaar"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://lahiru-dhananjaya.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Location-Colombo%2C%20Sri%20Lanka-334155?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
+  <img src="https://img.shields.io/badge/Focus-Full--Stack%20%7C%20AI%20Workflows-334155?style=flat-square&logo=target&logoColor=white" alt="Focus" />
+</p>
 
 </div>
 
 ---
 
-## Professional Summary
+## 💼 Professional Summary
 
-Software Engineer with 1+ year of hands-on experience building and maintaining production web applications and enterprise software. I work across the full stack—frontend, backend, APIs, and databases—with a strong focus on reliability, clean architecture, and practical AI integration.
+Software Engineer with practical experience building and maintaining production web applications and enterprise software. I work across frontend, backend, APIs, and databases with a strong focus on reliability, clean architecture, and real-world AI integration.
 
-## What I Do
+## 🚀 Core Expertise
 
-- Build responsive, reusable frontend interfaces with **React, Next.js, and JavaScript/TypeScript**
-- Develop secure backend services and APIs using **Node.js, Express, Laravel, and Python/FastAPI**
-- Design and optimize data layers with **MySQL, PostgreSQL, and SQL**
-- Integrate AI capabilities using **OpenAI APIs, LLM applications, and workflow automation**
-- Contribute with testing, debugging, CI/CD, and team-based Git workflows
+- Develop scalable frontend interfaces with **React, Next.js, and TypeScript**
+- Build secure backend services and APIs using **Node.js, Express, Laravel, and FastAPI**
+- Design and optimize data systems with **MySQL, PostgreSQL, and SQL**
+- Implement practical AI workflows with **OpenAI APIs, LLM apps, and automation pipelines**
+- Improve product quality through **testing, debugging, CI/CD, and collaborative Git workflows**
 
-## Experience Snapshot
+## 🧰 Tech Stack
 
-### Associate Software Engineer *(Mar 2026 – Present)*
-**Rangiri Holdings (Pvt) Ltd — Makola, Sri Lanka**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,nodejs,express,laravel,php,python,fastapi,mysql,postgres,docker,aws,githubactions,git,linux,postman&perline=7" alt="Tech stack icons" />
+</div>
 
-- Built and maintained production-grade business applications across frontend, backend, and data layers
-- Implemented secure REST APIs with authentication, RBAC, and robust validation
-- Improved system stability through issue debugging, query optimization, and performance tuning
-- Contributed to AI-enabled internal systems, including an ERP assistant with controlled access
+## 📈 GitHub Analytics
 
-### Software Engineer Intern *(Jul 2025 – Feb 2026)*
-**Rangiri Holdings (Pvt) Ltd — Makola, Sri Lanka**
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LAHI-RU&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
+  <img height="165" src="https://streak-stats.demolab.com?user=LAHI-RU&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</div>
 
-- Developed full-stack internal business features with Laravel, Blade, MySQL, JavaScript, and Tailwind CSS
-- Built reusable React and Next.js components integrated with backend APIs
-- Supported production maintenance, feature delivery, and collaborative Agile workflows
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LAHI-RU&theme=tokyo-night&hide_border=true" alt="Contribution graph" />
+</div>
 
-## Tech Stack
+## 🎯 Current Focus
 
-- **Frontend:** React, Next.js, TypeScript, JavaScript, Tailwind CSS, HTML, CSS
-- **Backend & APIs:** Node.js, Express, Laravel, PHP, Python, FastAPI, REST APIs
-- **Databases:** MySQL, PostgreSQL, SQL
-- **AI & Automation:** OpenAI API, LLM applications, AI workflow integration, MCP
-- **DevOps & Tools:** Docker, AWS EC2, GitHub Actions, CI/CD, Git, Postman, Linux
-- **Testing & Engineering:** Automated testing, debugging, API integration, RBAC implementation
-
-## Current Focus
-
-- Building scalable full-stack products with clean architecture
-- Applying AI features to practical business workflows
-- Improving reliability, performance, and developer experience in production systems
+- Building clean, maintainable full-stack systems for business use cases
+- Integrating AI capabilities into secure and reliable application workflows
+- Improving performance, stability, and developer experience in production environments
 
 ---
 
 <div align="center">
-
-Open to collaborating on impactful software projects and modern AI-enabled applications.
-
+  <b>Open to impactful software engineering opportunities and collaborations.</b>
 </div>
