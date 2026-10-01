@@ -47,12 +47,6 @@
   <img src="https://skillicons.dev/icons?i=postman" title="Postman" alt="Postman" />
 </div>
 
-## 👀 Profile Views
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=LAHI-RU&label=Profile%20views&color=2563EB&style=for-the-badge" alt="Profile views" />
-</div>
-
 ## 📈 GitHub Analytics
 
 <div align="center">
