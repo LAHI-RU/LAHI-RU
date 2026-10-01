@@ -10,11 +10,6 @@
   <a href="https://lahiru-dhananjaya.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/Location-Colombo%2C%20Sri%20Lanka-334155?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
-  <img src="https://img.shields.io/badge/Focus-Full--Stack%20%7C%20AI%20Workflows-334155?style=flat-square&logo=target&logoColor=white" alt="Focus" />
-</p>
-
 </div>
 
 ---
