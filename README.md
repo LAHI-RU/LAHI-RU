@@ -34,7 +34,29 @@ Software Engineer with practical experience building and maintaining production 
 ## 🧰 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,nodejs,express,laravel,php,python,fastapi,mysql,postgres,docker,aws,githubactions,git,linux,postman&perline=7" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=react" title="React" alt="React" />
+  <img src="https://skillicons.dev/icons?i=nextjs" title="Next.js" alt="Next.js" />
+  <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" alt="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" alt="Tailwind CSS" />
+  <img src="https://skillicons.dev/icons?i=html" title="HTML5" alt="HTML5" />
+  <img src="https://skillicons.dev/icons?i=css" title="CSS3" alt="CSS3" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" alt="Node.js" />
+  <img src="https://skillicons.dev/icons?i=express" title="Express.js" alt="Express.js" />
+  <img src="https://skillicons.dev/icons?i=laravel" title="Laravel" alt="Laravel" />
+  <img src="https://skillicons.dev/icons?i=php" title="PHP" alt="PHP" />
+  <img src="https://skillicons.dev/icons?i=python" title="Python" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=fastapi" title="FastAPI" alt="FastAPI" />
+  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" alt="MySQL" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" alt="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=docker" title="Docker" alt="Docker" />
+  <img src="https://skillicons.dev/icons?i=aws" title="AWS" alt="AWS" />
+  <img src="https://skillicons.dev/icons?i=githubactions" title="GitHub Actions" alt="GitHub Actions" />
+  <img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=linux" title="Linux" alt="Linux" />
+  <img src="https://skillicons.dev/icons?i=postman" title="Postman" alt="Postman" />
 </div>
 
 ## 📈 GitHub Analytics
