@@ -55,7 +55,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LAHI-RU&theme=tokyo-night&hide_border=true" alt="Contribution graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LAHI-RU&theme=tokyonight" alt="Contribution graph" />
 </div>
 
 ## 🎯 Current Focus
