@@ -19,18 +19,6 @@
 
 ---
 
-## 💼 Professional Summary
-
-Software Engineer with practical experience building and maintaining production web applications and enterprise software. I work across frontend, backend, APIs, and databases with a strong focus on reliability, clean architecture, and real-world AI integration.
-
-## 🚀 Core Expertise
-
-- Develop scalable frontend interfaces with **React, Next.js, and TypeScript**
-- Build secure backend services and APIs using **Node.js, Express, Laravel, and FastAPI**
-- Design and optimize data systems with **MySQL, PostgreSQL, and SQL**
-- Implement practical AI workflows with **OpenAI APIs, LLM apps, and automation pipelines**
-- Improve product quality through **testing, debugging, CI/CD, and collaborative Git workflows**
-
 ## 🧰 Tech Stack
 
 <div align="center">
