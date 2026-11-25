@@ -52,6 +52,8 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LAHI-RU&theme=tokyonight" alt="Contribution graph" />
 </div>
 
+[![gayanvoice/top-github-users/sri_lanka](https://raw.githubusercontent.com/gayanvoice/top-github-users-ranking/main/svg/sri_lanka/lahi-ru.svg)](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/sri_lanka.md#lahi-ru)
+
 ## 🎯 Current Focus
 
 - Building clean, maintainable full-stack systems for business use cases
